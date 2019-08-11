@@ -1,6 +1,4 @@
-# Steps
-
-List of steps
+# List of steps
 
 ```bash
 npx create-react-app resort
@@ -9,10 +7,22 @@ npm i react-icons react-router-dom --save
 npm start
 ```
 
+## Cleanup
+
 Removed unnecessary "create-react-app" files, updated app title, deleted app.css.
 
-Added project files.
+## Added project files
 
 (src/app.css, src/images/, src/data.js, public/\_redirects).
 
-Setup Pages
+## Setup Pages
+
+Add pages/ and setup files for Home, Rooms, Single Rooms, Error
+
+## Router
+
+Set up routes for pages
+
+## Components
+
+Added components/ Navbar
