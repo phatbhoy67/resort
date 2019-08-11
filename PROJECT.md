@@ -25,6 +25,8 @@ Set up routes for pages
 
 ## Components
 
-Added components/ Navbar.js
-Added components/ Hero.js
-Added components/ Banner.js
+Added components/Navbar.js
+Added components/Hero.js
+Added components/Banner.js
+Added components/Services.js
+Added components/Title.js
