@@ -14,3 +14,5 @@ Removed unnecessary "create-react-app" files, updated app title, deleted app.css
 Added project files.
 
 (src/app.css, src/images/, src/data.js, public/\_redirects).
+
+Setup Pages
