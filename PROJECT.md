@@ -30,3 +30,8 @@ Added components/Hero.js
 Added components/Banner.js
 Added components/Services.js
 Added components/Title.js
+
+Added /components/FeaturedRooms.js
+Added /components/Loading.js
+Added /components/Room.js
+Added /context.js
