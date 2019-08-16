@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a039e234-fa55-4035-a96b-73298dcd2f58/deploy-status)](https://app.netlify.com/sites/beach-resort-example/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a039e234-fa55-4035-a96b-73298dcd2f58/deploy-status)](https://beach-resort-example.netlify.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
